@@ -1,0 +1,86 @@
+<link href="https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Libre+Baskerville&display=swap" rel="stylesheet">* {}
+
+.hh {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    background-color: rgb(238, 107, 70);
+    color: aliceblue;
+}
+
+.mis-content {
+
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 22px;
+    align-content: center;
+    width: 90vh;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 50vh;
+    width: 135vh;
+    margin: 0 auto;
+}
+
+.image {
+
+    background-repeat: no-repeat;
+
+}
+
+.m1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    padding-left: 255px;
+    font-size: 30px;
+}
+
+.v1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    padding-left: 260px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.main2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 50vh;
+    width: 135vh;
+    margin: 0 auto;
+}
+
+.vis-content {
+
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 22px;
+    align-content: center;
+    width: 90vh;
+}
+
+.main3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 50vh;
+    width: 135vh;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.s1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    padding-left: 225px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.ser-content {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 22px;
+    align-content: center;
+    width: 90vh;
+}
