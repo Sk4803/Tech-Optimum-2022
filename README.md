@@ -1,6 +1,8 @@
 # Tech-Optimum-2022
 
 
+#BRINGING THEIR HARDWORK TO A DESERVING PLATFORM
+
 Vision 
 
 The main idea of the Team WASSUP is to appreciate the creativity, hardwork and dedication of the amazing talent of our society. To provide them a platform where they can showcase their unique style in a better way.
@@ -29,7 +31,12 @@ Challenges faced by these small retailers.
 
 1. Not get enough support and appreciation from the large scale market because of less profit and knowledge about the marketing.
 2. Faces a lot of issues regarding advertisement of their products.
-Services
+Services.
+
+Challenges faced by us.
+1. It was very difficult for our team to contact and convience these people regarding our overall idea as these concept of advertisement through a project was completely new to them. 
+2. As we can't meet them physically, we had only one option was to connect with them through insta messages and calls, which was also time consuming. 
+   
 
 The prime services that we shall offer include -
 
@@ -38,6 +45,12 @@ The prime services that we shall offer include -
 2. We shall also provide mandatory contact details of the retailers to directly contact them regarding important enquires and consultations.
 
 3. A stage where these creative retailers can easily work according to thier own style and preference.
+
+Future Aspect of our project
+
+Team WASSUP has the mission to make "SHOPIVA" , the most trusted website for the  small retailers, to connect lots of amazing new talent across the nation, so that they will not just depend upon no of followers for their getting paid what they actually deserve.
+
+We will sell their products on our website too which will directly made by them only, and also provide them sufficent support through funds and technologies, which will not only reduce their precious time, but will improve the quaqlity of the product too.
 
 
 
