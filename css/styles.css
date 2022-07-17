@@ -3,7 +3,7 @@ body{
 }
 
 #title{
-  background-color: #f47c7c;
+  background-color: #ad8b73;
   color: #fff;
 }
 
@@ -30,13 +30,19 @@ h3{
 }
 
 p{
-  color: #8F8F8F;
+  color: black;
 }
 
 /* Navigation Bar */
 
 .navbar{
   padding: 0 1rem 4.5rem;
+}
+
+.navbar-img{
+  border-radius: 50%;
+  width: 85px;
+  padding: 0px 10px;
 }
 
 .navbar-brand{
@@ -53,6 +59,10 @@ p{
   font-size: 1.2rem;
 }
 
+#navbar-color li a.nav-link:hover{
+  color: #1e067d;
+}
+
 .navbar-nav{
   margin: 0 10px 0 214px;
 }
@@ -63,72 +73,53 @@ p{
   width: 90%;
 }
 
-/* Features Section */
-
-#features{
-  padding: 7% 15%;
-}
-
-.feature-box{
-  text-align: center;
-}
-
 .btn:hover{
   background: #F8F9FA;
   color: black;
 }
 
-.row{
-}
+/* shopping Section */
 
-.icon-monkey{
-  margin-bottom: 1rem;
-}
-
-.icon-monkey:hover{
-  background-color: #f47c7c;
-}
-
-.icon{
-  color: black;
-  margin-bottom: 1rem;
-}
-
-.icon:hover{
-  color: #f47c7c;
-}
-
-/* Testimonial Section */
-
-#testimonials{
-  padding: 7% 15%;
+#shopping{
+  padding: 7% 7%;
   text-align: center;
-  background-color: #f47c7c;
-  color: #fff;
+  background-color: #e3caa5;
+  color: #d82148;
 }
 
-.testimonial-image{
-  width: 15%;
-  border-radius: 100%;
+.shopping-subtext{
+  color: black;
+}
+
+.shopping-image{
+  width: 25%;
   margin: 20px;
 }
 
-#press{
-  background-color: #f47c7c;
-  text-align: center;
-  padding-bottom: 3%;
+.shopping-image-text{
+  color: #1e067d;
+  width: 100%;
+  padding: 3% 3%;
+  margin-top: 4px;
+  margin-left: 5px;
 }
 
-.press-logo{
-  width: 15%;
-  margin: 20px 20px 50px;
+.shopping-image-text1{
+  color: #1e067d;
+  width: 100%;
+  padding: 10% 5%;
+  margin-top: 4px;
+  margin-left: 5px;
 }
+
 
 /* Footer */
 
 #footer{
   padding: 7% 15%;
   text-align: center;
+  background-color: #ad8b73;
+  color: black;
 }
 
 .social-icon{
@@ -137,5 +128,5 @@ p{
 
 .social-icon:hover{
   cursor: pointer;
-  color: #f47c7c;
+  color: #1e067d;
 }
